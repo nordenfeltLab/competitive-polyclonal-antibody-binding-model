@@ -1,0 +1,12 @@
+*.png
+*.tif
+*.eps
+*.svg
+*.asv
+*.fig
+*.mat
+*.csv
+*.ipynb
+.ipynb_checkpoints/
+data
+Thumbs.db
